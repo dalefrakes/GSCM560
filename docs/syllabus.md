@@ -1,6 +1,5 @@
 
 # Syllabus: GSCM 560 - Supply Chain Modeling & Simulation
-## 
 ## Portland State University School of Business
 ## Fall 2019, Fully Online
 
