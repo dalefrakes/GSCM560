@@ -6,7 +6,7 @@ layout: default
 ## Supply Chain Modeling & Simulation
 ### Portland State University
 
-Version B - deleted uccss508
+Version C 
 ---
 
 ## Everything below this is copied from [clanfear](https://github.com/clanfear)'s page:
