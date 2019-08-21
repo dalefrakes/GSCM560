@@ -1,0 +1,6 @@
+title: 'PSU GSCM560'
+description: "Course website for GSCM560: Supply Chain Modeling & Simulation"
+logo: 'https://raw.githubusercontent.com/dalefrakes/GSCM560/master/docs/img/gscm_white.png'
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
