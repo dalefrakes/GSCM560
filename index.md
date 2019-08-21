@@ -6,7 +6,6 @@ layout: default
 ## Supply Chain Modeling & Simulation
 ### Portland State University
 
-Version C 
 ---
 
 ## Everything below this is copied from [clanfear](https://github.com/clanfear)'s page:
