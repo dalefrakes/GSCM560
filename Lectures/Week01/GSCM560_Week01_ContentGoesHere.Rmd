@@ -1,0 +1,34 @@
+---
+title: "GSCM560, Week 1"
+subtitle: "A Subtitle Goes Here"
+author: "Dale Frakes"
+date: "Apr 3, 2019<br>Updated: `r gsub(' 0', ' ', format(Sys.Date(), format='%b %d, %Y'))`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      countIncrementalSlides: false
+      titleSlideClass: ["center","top"]
+---
+
+```{r setup, include=FALSE, purl=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(comment = "##")
+```
+
+```{r xaringan-themer, include = FALSE, purl=FALSE}
+library(xaringanthemer)
+source("../gscm-css.R")
+```
+
+# Slide #1
+
+* Some content
+
+--
+
+* More content
+
