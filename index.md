@@ -26,6 +26,10 @@ layout: default
 
 ---
 
+## Citations
+
+1. Image of School of Business Renovation, Behnisch Architekten, (https://www.pdx.edu/construction/school-of-business-renovation-and-expansion)
+
 This project is maintained by [dalefrakes](https://github.com/dalefrakes) and includes site materials from [clanfear](https://github.com/clanfear) with permission.
 
 ---
