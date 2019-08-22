@@ -26,7 +26,7 @@ layout: default
 
 ---
 
-## Citations
+## Credits
 
 1. Image of School of Business Renovation, Behnisch Architekten, (https://www.pdx.edu/construction/school-of-business-renovation-and-expansion)
 
