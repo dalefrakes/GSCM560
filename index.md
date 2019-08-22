@@ -23,6 +23,11 @@ layout: default
        + [PDF of Lecture 1 slides](https://dalefrakes.github.io/GSCM560/Lectures/Week01/GSCM560_Week01_ContentGoesHere.pdf)
        + [Rmd for Lecture 1 slides](https://raw.githubusercontent.com/dalefrakes/GSCM560/master/Lectures/Week01/GSCM560_Week01_ContentGoesHere.Rmd)
 
+
+---
+
+This project is maintained by [dalefrakes](https://github.com/dalefrakes) and includes site materials from [clanfear](https://github.com/clanfear) with permission.
+
 ---
 ---
 ---
@@ -281,4 +286,3 @@ layout: default
        + [`Rfacebook`](https://github.com/pablobarbera/Rfacebook)
    * [Shiny](http://shiny.rstudio.com/gallery/) for interactive R apps
 
-This project is maintained by [clanfear](https://github.com/dalefrakes) and includes site materials from [clanfear](https://github.com/clanfear) with permission.
