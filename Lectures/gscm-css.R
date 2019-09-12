@@ -40,7 +40,7 @@ csss508css <- list(
   "a" = list("text-decoration" = "underline"),
   ".inverse a" = list("color" = "#cbd3a3"),
   "body" = list("line-height" = "1.4"),
-  ".inverse" = list("background-image" = "url(https://clanfear.github.io/CSSS508/Lectures/img/UWCSSSBG1_white.svg)"),
+  ".inverse" = list("background-image" = "url(https://dalefrakes.github.io/GSCM560/Lectures/img/GSCMBG1_white.svg)"),
   ".short" = list("height" = "30%"),
   ".image-50 img" = list("width" = "50%"),
   ".image-75 img" = list("width" = "75%"),
@@ -49,7 +49,7 @@ csss508css <- list(
     "display"="block",
     "margin-left"="auto",
     "margin-right"="auto"),
-  ".title-slide" = list("background-image" = "url(https://clanfear.github.io/CSSS508/Lectures/img/UWCSSSBG1_white.svg), url(https://clanfear.github.io/CSSS508/Lectures/img/title_slide_img.png)",
+  ".title-slide" = list("background-image" = "url(https://dalefrakes.github.io/GSCM560/Lectures/img/GSCMBG1_white.svg), url(https://dalefrakes.github.io/GSCM560/Lectures/img/title_slide_img.png)",
                         "background-position" = "center center, center bottom",
                         "background-size" = "contain, contain")
 )
@@ -57,8 +57,8 @@ mono_accent(base_color = "#342c5c",
             code_font_google = google_font("Fira Mono"),
             header_font_google = google_font("Quattrocento"),
             extra_css = csss508css,
-            title_slide_background_image = "https://raw.githubusercontent.com/clanfear/CSSS508/master/Lectures/img/title_slide_img.png",
+            title_slide_background_image = "https://raw.githubusercontent.com/dalefrakes/GSCM560/master/Lectures/img/title_slide_img.png",
             title_slide_background_position = "bottom",
             title_slide_background_size = "contain",
-            background_image = "https://clanfear.github.io/CSSS508/Lectures/img/UWCSSSBG1.svg"
+            background_image = "https://dalefrakes.github.io/GSCM560/Lectures/img/GSCMBG1_white.svg"
 )
