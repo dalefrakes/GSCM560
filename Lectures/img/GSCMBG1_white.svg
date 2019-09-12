@@ -14,8 +14,8 @@
    viewBox="0 0 800 600"
    version="1.1"
    id="svg8"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="GSCMBG1_white.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="UWCS&amp;SSBG1_white.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.9899495"
-     inkscape:cx="-71.285842"
-     inkscape:cy="254.86469"
+     inkscape:zoom="1.979899"
+     inkscape:cx="600.88157"
+     inkscape:cy="72.317699"
      inkscape:document-units="mm"
      inkscape:current-layer="text5209"
-     showgrid="true"
+     showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1030"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1017"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -72,8 +72,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccc" />
     <g
-       aria-label="UW CS&amp;SS"
+       aria-label="GSCM560"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:Quattrocento;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="text5209" />
+       id="text5209">
+
+    </g>
   </g>
 </svg>
